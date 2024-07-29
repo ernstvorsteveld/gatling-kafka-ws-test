@@ -1,0 +1,3 @@
+= Gatling tester
+
+Project with Gatling performance load testing for my Kafka projects.
